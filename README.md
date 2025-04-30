@@ -32,7 +32,15 @@
 -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api?username=zizi-ctrl)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattie3e&layout=compact&show_icons=true&theme=transparent)
-  
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mattie3e&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/mattie3e"
+  width="600"
+  height="300"
+/>
+</a>
   <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=zizi-ctrl&layout=compact&theme=transparent)-->
 
